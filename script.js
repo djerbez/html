@@ -87,7 +87,7 @@ const videos = [
       "https://yt3.ggpht.com/ytc/AMLnZu8dgfb-EOG--mVDlA6da8u5luAYU0LGo8ploU3ZWw=s48-c-k-c0x00ffffff-no-rj",
     naslov: "I Used Apple Watch Ultra WITHOUT an iPhone...",
     kanal: "Unbox Therapy",
-    pregledi: "86k views ● 4 hourss ago",
+    pregledi: "86k views ● 4 hours ago",
   },
   {
     slika:
@@ -96,7 +96,7 @@ const videos = [
       "https://yt3.ggpht.com/ytc/AMLnZu-01AzHsHPEliFPvVhj6xV4vzLfa2muMW8osr9FUA=s48-c-k-c0x00ffffff-no-rj",
     naslov: "J. COLE 1 HOUR CHILL SONGS (2021)",
     kanal: "Peeco",
-    pregledi: "11M views ● 1 yours ago",
+    pregledi: "11M views ● 1 years ago",
   },
   {
     slika:
