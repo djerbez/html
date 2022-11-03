@@ -1,4 +1,4 @@
-#slika {
+.slika {
     width: 450px;
     height: 180px;
   }
@@ -12,26 +12,57 @@
     max-height: 4rem;
     overflow: hidden;
   }
-  .container2 {
-    display: inline-block;
-    vertical-align: top;
-  }
-  #container1 {
+  .container {
     display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
   }
-  #logo {
+  .logo {
     width: 36px;
     height: 36px;
-    border-radius: 50%;
+    border-radius: 25px;
   }
   .title {
     font-family: "Roboto", "Arial", sans-serif;
     font-size: 0.8rem;
   }
+  .header {
+    display: flex;
+    justify-content: space-between;
+  }
+  .youtubeLogo {
+    width: 120px;
+    height: 40px;
+  }
+  .search {
+    display: flex;
+  }
   input {
-    width: 300px;
-    height: 30px;
-    display: block;
-     margin-right: auto;
-     margin-left: auto;
+    width: 350px;
+    height: 40px;
+  }
+  .lupa {
+    height: 20px;
+    width: 20px;
+  }
+  .searchButton {
+    width: 60px;
+    height: 40px;
+  }
+  .mikrofon {
+    height: 20px;
+    width: 20px;
+  }
+  .microphoneButton {
+    width: 40px;
+    height: 40px;
+    border-radius: 25px;
+  }
+  .logos {
+    display: flex;
+  }
+  .smallLogo {
+    width: 40px;
+    height: 40px;
+    border-radius: 25px;
   }
